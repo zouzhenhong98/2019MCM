@@ -1,0 +1,12 @@
+视频教程：
+LaTeX Tutorial 1 - Creating a LaTeX Document - YouTube 
+https://www.youtube.com/watch?v=SoDv0qhyysQ&list=PL1D4EAB31D3EBC449
+官方文段：
+Texmaker (free cross-platform latex editor) http://www.xm1math.net/texmaker/doc.html#SECTION01
+博客介绍：
+Miktex 2.9+Texmaker 4.4.1安装及中英PDF生成过程 - CSDN博客 https://blog.csdn.net/u013063099/article/details/51926023
+
+软件下载：MikTex+TexMaker（按顺序，共计约200M）
+（或者其他编译器https://www.zhihu.com/question/19954023）
+
+（当前版本：MikTex2.9+TexMaker5.0.2）
