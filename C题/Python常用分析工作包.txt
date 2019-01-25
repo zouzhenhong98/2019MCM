@@ -1,0 +1,22 @@
+*下述是Python包，但几乎它们都有对应的R包，并且Python也可以调用R【滑稽脸】
+
+Pandas
+适用于数据读写和处理
+
+Numpy
+适用于数据处理和计算
+
+Sklearn
+包括几乎所有统计模型和统计学习模型
+
+Matplotlib
+可以画出所有你需要的统计学图表
+
+mlp
+里面有个包：Basemap,可以根据zipcode画地图（内置）
+
+xgboost
+流行的决策树模型
+
+jupyter notebook/lab
+好用的python交互编程工具，我更喜欢jupyter lab
